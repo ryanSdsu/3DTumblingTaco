@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS583_3D_Game_Gravitron_FallingBurrito_Main_Menu", "Assembly-CSharp.csproj", "{720A6BA9-9775-FCE8-A074-DCBF8A602BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{720A6BA9-9775-FCE8-A074-DCBF8A602BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720A6BA9-9775-FCE8-A074-DCBF8A602BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720A6BA9-9775-FCE8-A074-DCBF8A602BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720A6BA9-9775-FCE8-A074-DCBF8A602BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
